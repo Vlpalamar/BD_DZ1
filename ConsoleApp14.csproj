@@ -76,10 +76,10 @@
     <Content Include="Acadamy\migration\Faculties.sql" />
     <Content Include="Acadamy\migration\Groups.sql" />
     <Content Include="Acadamy\migration\Teachers.sql" />
-    <Content Include="Acadamy\queey\Reed.sql" />
-    <Content Include="Acadamy\queey\Update.sql" />
-    <Content Include="Acadamy\queey\Delete.sql" />
-    <Content Include="Acadamy\queey\Create.sql" />
+    <Content Include="Acadamy\queey\GroupeData.sql" />
+    <Content Include="Acadamy\queey\OneColumn.sql" />
+    <Content Include="Acadamy\queey\Revers.sql" />
+    <Content Include="Acadamy\queey\SalaryPersent.sql" />
     <Content Include="Acadamy\SEED\10-12-2020_teacher.sql" />
   </ItemGroup>
   <ItemGroup />
