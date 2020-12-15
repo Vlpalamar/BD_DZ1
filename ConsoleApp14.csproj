@@ -76,10 +76,21 @@
     <Content Include="Acadamy\migration\Faculties.sql" />
     <Content Include="Acadamy\migration\Groups.sql" />
     <Content Include="Acadamy\migration\Teachers.sql" />
+    <Content Include="Acadamy\queey\ASSIST.sql" />
+    <Content Include="Acadamy\queey\DepatmentFond.sql" />
     <Content Include="Acadamy\queey\GroupeData.sql" />
+    <Content Include="Acadamy\queey\GroupeNameVithRaiting.sql" />
+    <Content Include="Acadamy\queey\InsteadOfCS.sql" />
+    <Content Include="Acadamy\queey\InsteadOFProfessor.sql" />
+    <Content Include="Acadamy\queey\Name_of_Department.sql" />
     <Content Include="Acadamy\queey\OneColumn.sql" />
+    <Content Include="Acadamy\queey\ProfessorAndMore1050.sql" />
     <Content Include="Acadamy\queey\Revers.sql" />
     <Content Include="Acadamy\queey\SalaryPersent.sql" />
+    <Content Include="Acadamy\queey\Sername.sql" />
+    <Content Include="Acadamy\queey\sernameAndSalary.sql" />
+    <Content Include="Acadamy\queey\teachersFirstDay.sql" />
+    <Content Include="Acadamy\queey\ZPassist.sql" />
     <Content Include="Acadamy\SEED\10-12-2020_teacher.sql" />
   </ItemGroup>
   <ItemGroup />
